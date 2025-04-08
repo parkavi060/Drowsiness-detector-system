@@ -1,5 +1,4 @@
-
-
+                                                 # Driver Drowsiness Detection System
 ```markdown
 # Driver Drowsiness Detection System
 
@@ -41,7 +40,7 @@ pip install opencv-python dlib scipy imutils playsound
 
 ## 📥 Download Shape Predictor Model
 
-You can download the required shape predictor file from [here](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2).
+You can download the required shape predictor file from kaggle
 
 After downloading, extract the `.dat` file and place it in the project directory.
 
@@ -55,9 +54,7 @@ The webcam will open. When your eyes are detected closed beyond a threshold time
 
 Press `ESC` key to exit the application.
 
-## 🖼️ Screenshot
 
-![Demo](demo_picture.png) <!-- Add your own screenshot or video demo -->
 
 ## 🧑‍💻 Author
 
