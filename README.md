@@ -57,7 +57,7 @@ Press `ESC` key to exit the application.
 
 ## 🖼️ Screenshot
 
-![Demo](demo_screenshot.png) <!-- Add your own screenshot or video demo -->
+![Demo](demo_picture.png) <!-- Add your own screenshot or video demo -->
 
 ## 🧑‍💻 Author
 
